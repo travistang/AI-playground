@@ -1,0 +1,3 @@
+[submodule "german-word2vec"]
+	path = german-word2vec
+	url = ./german-word2vec
